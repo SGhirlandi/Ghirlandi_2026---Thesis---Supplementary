@@ -1,11 +1,11 @@
-# [Ghirlandi_2026---Thesis---Supplementary]
+# Supplmentary code for Stefano Ghirlandi master thesis
 
-This repository contains the code for my [Master] thesis for graduating in [Industrial Ecology] issued jointly by [Leiden University] and [TU Delft], [2026].
+This repository contains the code for my Master thesis for graduating in *Industrial Ecology* issued jointly by *Leiden University* and *TU Delft*, 2026.
 
 ## 📝 Abstract
 This research investigates the supply chain of titanium metal in the EU focusing on civil aviation sector. The study adopted Material Flow Analysis and Multi Regional Input Output analysis to assess respectively the material and economy dimension of the material. Then, it modelled two circular economy scenarios: enhanced domestic recycling and aircraft extention assessing their impact on jobs and value added and on lowering import dependence. 
 
-[Key Findings:]
+Key Findings:
 
 * **Enhanced Domestic Recycling**: Can increase EU self-sufficiency by 30 percentage points, generating €43.7M in value added. however, gains are limited by stock depletion within a decade, highlighting a need for structural policy changes regarding scrap exports.
 * **Lifetime Extension**: Offers lower immediate economic returns (€6.6M) but provides superior long-term dynamic buffering against supply shocks.
